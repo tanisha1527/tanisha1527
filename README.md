@@ -7,7 +7,10 @@
 
 - 🌱 I’m currently learning **React**
 
+- 🎯 Goals  **I want to beacome a Web Developer**
+
 - ⚡ Intersting fact **I think I am a good dancer 💃**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
